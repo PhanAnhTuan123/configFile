@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
     name: "3dd1cddd55c0bdcc4c27c4bf538ba5fac0f49200a57d4f87887a314eff4abde56c1370a81342f31db793470ecb9475c8"
     email: "781764fed61a4a8eac49d06945bd5cd31087aae5b2dc4ec1d03e71fb406bc4c46053d45ea9f6e744353998f3ccbb8aef"
